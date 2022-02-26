@@ -1,2 +1,5 @@
 # ganzzle
 GANZZLE: REFRAMING JIGSAW PUZZLE SOLVING AS A RETRIEVAL TASK USING AGENERATIVE MENTAL IMAGE
+
+
+[Supplementary material](ganzzle_supp.pdf)
